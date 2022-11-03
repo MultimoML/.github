@@ -1,10 +1,11 @@
-# RSOcena
+# Multimo
 
 Food price tracker for RSO.
 
 **TODO**: Short description
 
-Authors: [Urša Keše](https://github.com/ukese), [Erazem Kokot](https://github.com/erazemk) and
+Authors: [Urša Keše](https://github.com/ukese),
+[Erazem Kokot](https://github.com/erazemk) and
 [Miha Krumpestar](https://github.com/mk2376).
 
 ## Architecture
@@ -21,4 +22,4 @@ Authors: [Urša Keše](https://github.com/ukese), [Erazem Kokot](https://github.
 
 ## License
 
-RSOcena is licensed under the [GNU AGPLv3 license](LICENSE).
+Multimo is licensed under the [GNU AGPLv3 license](LICENSE).
