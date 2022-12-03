@@ -22,7 +22,7 @@ Check out the demo at [multimo.ml](https://multimo.ml).
 UI (`multimo.ml`):
 - Main app, uses SSG, so it runs as a separate microservice
 
-Extractor(-timer) (`/extractor`):
+Extractor (`/extractor`):
 - Extracts data from stores and stores it in the database
 - Endpoints:
   - `/self`: Health check
