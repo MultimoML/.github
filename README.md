@@ -32,6 +32,8 @@ Extractor (`/extractor`):
 Dispatcher (`/products`):
 - Returns product info from the database
 - Endpoints:
+  - `/live`: Liveliness check
+  - `/ready`: Readiness check
   - `/v1/all`: Returns a list of all products
 
 QR Generator (`/qr`):
