@@ -39,6 +39,8 @@ Dispatcher (`/products`):
 QR Generator (`/qr`):
 - Generates QR codes for products
 - Endpoints:
+  - `/live`: Liveliness check
+  - `/ready`: Readiness check
   - `/generate`: Generates a QR code for a product
 
 Statistics (`/stats`):
