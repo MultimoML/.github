@@ -32,17 +32,17 @@ Extractor (`/extractor`):
 Dispatcher (`/products`):
 - Returns product info from the database
 - Endpoints:
-  - `/v1/products`: Returns a list of all products
+  - `/v1/all`: Returns a list of all products
 
 QR Generator (`/qr`):
 - Generates QR codes for products
 - Endpoints:
-  - `/qr`: Generates a QR code for a product
+  - `/generate`: Generates a QR code for a product
 
 Statistics (`/stats`):
 - Returns statistics about Multimo and products
 - Endpoints:
-  - `/stats`: Returns all statistics about products
+  - `/all`: Returns all statistics about products
 
 Tracker (`/new`):
 - Tracks new products
