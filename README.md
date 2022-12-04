@@ -15,7 +15,7 @@ Check out the demo at [multimo.ml](https://multimo.ml).
 
 ## Architecture
 
-![Multimo Architecture](res/multimo-architecture.png)
+![Multimo Architecture](res/multimo-architecture.md)
 
 ### Microservices and features
 
