@@ -78,7 +78,7 @@ communicate over gRPC.
   - [`offset`](https://multimo.ml/products/v1/all?limit=3&offset=5): Which product to start from
   - [`sort`](https://multimo.ml/products/v1/all?limit=3&sort=price): Sort by field (none, name, price, category)
   - [`order`](https://multimo.ml/products/v1/all?limit=3&sort=name&order=desc): Sort order (asc, desc)
-  - [`history`](https://multimo.ml/products/v1/all?limit=1&history=full): Limit number of prices to display per item (last, none, all)
+  - [`history`](https://multimo.ml/products/v1/all?limit=1&history=full): Limit number of prices to display per item (last, none, full)
   - [`category`](https://multimo.ml/products/v1/all?limit=3&category=Olives): Filter by category name
 
 ### QR Generator (`/qr`):
